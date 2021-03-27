@@ -1,5 +1,5 @@
 # Color Picker In SwiftUI
-Color Picker in SwiftUI. This is my first experience to work with SwiftUI. The CP is a powerful component to add customization features for any app.
+Color Picker in SwiftUI. This is my :boy: first experience to work with SwiftUI. The CP is a powerful component to add customization features for any app :computer:.
 
 ## Screenshots
 
