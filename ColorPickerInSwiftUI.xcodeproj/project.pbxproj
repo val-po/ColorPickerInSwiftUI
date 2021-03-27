@@ -55,7 +55,6 @@
 				A375E283260FC8E200B7E1C7 /* ColorPickerInSwiftUIApp.swift */,
 				A375E285260FC8E200B7E1C7 /* ContentView.swift */,
 				A375E287260FC8E500B7E1C7 /* Assets.xcassets */,
-				A375E293260FCF6300B7E1C7 /* ScreenShots */,
 				A375E28C260FC8E500B7E1C7 /* Info.plist */,
 				A375E289260FC8E500B7E1C7 /* Preview Content */,
 			);
@@ -68,13 +67,6 @@
 				A375E28A260FC8E500B7E1C7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		A375E293260FCF6300B7E1C7 /* ScreenShots */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ScreenShots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
